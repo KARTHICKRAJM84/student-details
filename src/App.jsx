@@ -12,7 +12,7 @@ const App = () => {
     <div className="container">
       <div className="card">
         <div className="icon">
-        <img src="public/myphot.png" alt="eye" />
+        <img src="myphot.png" alt="eye" />
         </div>
         <h2 className="name">Name: Karthic raj M</h2>
         <p className="registration">Registration No: 212221040073</p>
